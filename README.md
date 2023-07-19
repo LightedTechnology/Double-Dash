@@ -23,10 +23,11 @@
 - `🌎` The map in Double Dash is a sci-fi lab on a planet with insane gravity. The lab has no view outside.
 - `🧶` All slots provided to the player are customisable.
 
-`🚨` As previously mentioned, batteries have a 100 EU. When the battery reaches 25% of its capacity, an alarm is initiated.
-`🔋` If the active battery goes to 0%, all vital systems are disabled until the inactive battery is charged to a 100%.
-`🪫` If the inactive battery reaches 0%, the player experiences the same outcome as if getting hit by a bolt.
-`⚡` The breaker's shot removes 60 EU from the active battery. If the active battery has less than 60 EU, the remainder is taken from the inactive battery.
+### Additional information:
+- `🚨` As previously mentioned, batteries have a 100 EU. When the battery reaches 25% of its capacity, an alarm is initiated.
+- `🔋` If the active battery goes to 0%, all vital systems are disabled until the inactive battery is charged to a 100%.
+- `🪫` If the inactive battery reaches 0%, the player experiences the same outcome as if getting hit by a bolt.
+- `⚡` The breaker's shot removes 60 EU from the active battery. If the active battery has less than 60 EU, the remainder is taken from the inactive battery.
 
 ---
 
